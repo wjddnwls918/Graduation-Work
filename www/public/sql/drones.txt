@@ -1,0 +1,1431 @@
+INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '30',  '142',  'charge' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '7',  '66',  'charge' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '26',  '92',  'stop' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '38',  '151',  'charge' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '1',  '193',  'flight' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '27',  '46',  'stop' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '37',  '45',  'stop' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '39',  '397',  'charge' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '7',  '64',  'stop' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '42',  '31',  'flight' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '42',  '175',  'stop' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '49',  '485',  'stop' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '50',  '157',  'flight' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '6',  '146',  'flight' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '37',  '270',  'flight' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '25',  '375',  'stop' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '17',  '9',  'stop' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '38',  '139',  'stop' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '31',  '123',  'flight' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '13',  '220',  'flight' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '37',  '415',  'stop' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '20',  '200',  'charge' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '20',  '103',  'flight' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '27',  '320',  'flight' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '22',  '90',  'flight' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '39',  '4',  'charge' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '16',  '217',  'stop' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '36',  '372',  'charge' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '22',  '420',  'flight' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '1',  '311',  'charge' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '49',  '244',  'stop' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '36',  '312',  'stop' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '46',  '231',  'flight' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '14',  '80',  'charge' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '27',  '153',  'charge' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '34',  '187',  'stop' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '16',  '378',  'flight' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '2',  '478',  'flight' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '20',  '387',  'charge' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '22',  '435',  'charge' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '10',  '307',  'stop' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '48',  '331',  'charge' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '4',  '262',  'flight' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '7',  '35',  'charge' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '4',  '32',  'flight' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '35',  '159',  'flight' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '25',  '215',  'stop' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '32',  '400',  'charge' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '20',  '252',  'charge' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '14',  '441',  'charge' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '35',  '10',  'stop' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '24',  '435',  'flight' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '13',  '472',  'charge' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '46',  '71',  'stop' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '39',  '267',  'stop' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '16',  '38',  'stop' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '35',  '356',  'stop' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '37',  '249',  'stop' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '3',  '51',  'stop' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '3',  '148',  'charge' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '20',  '16',  'stop' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '47',  '118',  'stop' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '26',  '362',  'charge' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '29',  '103',  'flight' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '37',  '301',  'stop' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '48',  '62',  'charge' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '36',  '290',  'stop' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '49',  '52',  'charge' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '44',  '238',  'charge' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '46',  '61',  'charge' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '39',  '178',  'charge' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '41',  '11',  'flight' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '19',  '123',  'charge' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '35',  '297',  'flight' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '1',  '172',  'stop' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '23',  '369',  'flight' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '8',  '329',  'stop' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '37',  '118',  'stop' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '44',  '182',  'flight' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '33',  '265',  'stop' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '5',  '85',  'flight' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '13',  '207',  'stop' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '35',  '30',  'charge' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '30',  '16',  'flight' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '26',  '320',  'flight' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '5',  '109',  'charge' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '12',  '144',  'stop' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '23',  '469',  'charge' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '31',  '88',  'charge' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '21',  '283',  'stop' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '41',  '241',  'charge' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '33',  '20',  'stop' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '36',  '469',  'stop' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '50',  '189',  'charge' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '1',  '500',  'stop' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '13',  '76',  'charge' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '24',  '422',  'charge' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '7',  '290',  'charge' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '19',  '9',  'stop' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '11',  '106',  'charge' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '1',  '455',  'flight' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '8',  '499',  'stop' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '14',  '498',  'flight' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '41',  '184',  'charge' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '33',  '31',  'flight' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '9',  '2',  'flight' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '17',  '235',  'flight' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '38',  '425',  'stop' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '26',  '23',  'charge' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '13',  '410',  'charge' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '14',  '149',  'charge' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '21',  '220',  'charge' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '19',  '361',  'flight' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '45',  '354',  'flight' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '38',  '337',  'charge' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '12',  '281',  'flight' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '26',  '436',  'flight' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '19',  '229',  'flight' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '21',  '233',  'stop' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '6',  '443',  'flight' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '25',  '191',  'flight' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '20',  '206',  'stop' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '21',  '317',  'stop' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '26',  '318',  'flight' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '4',  '168',  'flight' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '44',  '292',  'charge' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '9',  '407',  'charge' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '30',  '328',  'flight' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '2',  '26',  'flight' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '26',  '43',  'stop' , '1')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '12',  '98',  'charge' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '10',  '50',  'stop' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '19',  '143',  'charge' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '1',  '352',  'stop' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '11',  '73',  'flight' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '8',  '54',  'flight' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '5',  '97',  'flight' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '21',  '50',  'stop' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '21',  '38',  'flight' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '42',  '299',  'charge' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '9',  '150',  'flight' , '2')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '29',  '181',  'flight' , '3')
+;INSERT INTO  `deokkyun`.`drones` (
+		`idx` ,
+		`flight_cnt` ,
+		`flight_distance` ,
+		`status` ,
+		`idx_drone`
+		
+		)
+		VALUES (
+		NULL ,  '19',  '107',  'charge' , '2')
+;

@@ -1,0 +1,946 @@
+INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '2', '2016-07-27', '23:21:36', '20', '69', '88', '36.762031', '127.28392', '1219', '0')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '3', '2016-07-27', '23:21:36', '17', '67', '36', '36.764767', '127.277583', '1127', '37')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '2', '2016-07-27', '23:21:37', '51', '42', '88', '36.7661', '127.281868', '819', '91')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '2', '2016-07-27', '23:21:37', '54', '53', '60', '36.764025', '127.280052', '1359', '5')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '2', '2016-07-27', '23:21:37', '30', '46', '14', '36.763839', '127.278685', '975', '66')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '2', '2016-07-27', '23:21:37', '113', '26', '13', '36.764146', '127.277994', '479', '79')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '1', '2016-07-27', '23:21:37', '73', '80', '99', '36.763074', '127.282232', '949', '98')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '3', '2016-07-27', '23:21:37', '16', '97', '66', '36.765511', '127.282508', '131', '55')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '1', '2016-07-27', '23:21:37', '142', '58', '20', '36.762448', '127.277619', '1236', '47')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '1', '2016-07-27', '23:21:38', '58', '77', '12', '36.760585', '127.280235', '1037', '69')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '2', '2016-07-27', '23:21:38', '3', '62', '12', '36.766063', '127.278512', '1485', '7')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '1', '2016-07-27', '23:21:38', '145', '79', '47', '36.766107', '127.283288', '850', '60')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '2', '2016-07-27', '23:21:38', '144', '93', '97', '36.765372', '127.28114', '412', '100')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '3', '2016-07-27', '23:21:38', '32', '21', '6', '36.76652', '127.282741', '393', '25')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '1', '2016-07-27', '23:21:38', '24', '38', '29', '36.760056', '127.283072', '261', '51')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '3', '2016-07-27', '23:21:38', '115', '82', '40', '36.762313', '127.280494', '1211', '12')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '1', '2016-07-27', '23:21:39', '147', '12', '98', '36.763584', '127.281584', '1433', '22')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '3', '2016-07-27', '23:21:39', '56', '43', '94', '36.761382', '127.283479', '221', '17')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '2', '2016-07-27', '23:21:39', '28', '27', '25', '36.760742', '127.278073', '1315', '45')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '1', '2016-07-27', '23:21:39', '122', '52', '9', '36.764724', '127.281189', '551', '32')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '3', '2016-07-27', '23:21:39', '68', '39', '40', '36.76556', '127.278748', '680', '59')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '3', '2016-07-27', '23:21:40', '108', '32', '34', '36.760944', '127.279099', '30', '37')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '1', '2016-07-27', '23:21:40', '105', '60', '22', '36.76443', '127.280985', '413', '72')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '2', '2016-07-27', '23:21:40', '80', '22', '18', '36.762301', '127.283312', '1217', '74')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '1', '2016-07-27', '23:21:40', '17', '21', '91', '36.763227', '127.282476', '1286', '21')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '1', '2016-07-27', '23:21:40', '114', '89', '67', '36.760943', '127.283874', '1067', '80')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '3', '2016-07-27', '23:21:40', '52', '42', '52', '36.761507', '127.28323', '594', '36')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '1', '2016-07-27', '23:21:41', '67', '55', '35', '36.764752', '127.278345', '721', '98')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '2', '2016-07-27', '23:21:41', '145', '19', '6', '36.763442', '127.278488', '368', '36')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '1', '2016-07-27', '23:21:41', '57', '54', '11', '36.763892', '127.277437', '170', '2')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '2', '2016-07-27', '23:21:41', '83', '67', '82', '36.761999', '127.284007', '307', '22')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '2', '2016-07-27', '23:21:41', '82', '63', '85', '36.761204', '127.283459', '267', '55')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '2', '2016-07-27', '23:21:41', '99', '78', '53', '36.766337', '127.278745', '349', '52')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '1', '2016-07-27', '23:21:41', '84', '100', '62', '36.760588', '127.281605', '1447', '32')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '1', '2016-07-27', '23:21:41', '76', '0', '41', '36.761676', '127.278549', '208', '30')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '2', '2016-07-27', '23:21:42', '113', '84', '16', '36.76625', '127.277849', '313', '61')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '2', '2016-07-27', '23:21:42', '103', '46', '18', '36.760224', '127.283904', '1048', '34')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '2', '2016-07-27', '23:21:42', '20', '16', '49', '36.76505', '127.280457', '878', '94')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '2', '2016-07-27', '23:21:42', '59', '25', '92', '36.761962', '127.281794', '873', '79')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '1', '2016-07-27', '23:21:42', '109', '60', '33', '36.764065', '127.283159', '1377', '5')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '1', '2016-07-27', '23:21:42', '76', '60', '9', '36.760801', '127.283082', '723', '90')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '1', '2016-07-27', '23:21:43', '86', '15', '44', '36.764208', '127.283151', '347', '44')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '2', '2016-07-27', '23:21:43', '55', '95', '75', '36.764155', '127.281413', '874', '47')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '1', '2016-07-27', '23:21:43', '101', '41', '89', '36.763434', '127.2777', '663', '91')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '3', '2016-07-27', '23:21:43', '47', '69', '17', '36.76655', '127.282894', '819', '3')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '1', '2016-07-27', '23:21:43', '73', '10', '3', '36.762849', '127.28007', '1429', '41')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '1', '2016-07-27', '23:21:43', '150', '50', '95', '36.762111', '127.280577', '749', '8')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '3', '2016-07-27', '23:21:43', '76', '81', '12', '36.761077', '127.277514', '1185', '2')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '2', '2016-07-27', '23:21:44', '30', '0', '1', '36.765619', '127.282532', '548', '32')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '1', '2016-07-27', '23:21:44', '6', '16', '69', '36.760335', '127.279421', '465', '51')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '3', '2016-07-27', '23:21:44', '13', '20', '1', '36.763986', '127.279987', '1379', '62')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '3', '2016-07-27', '23:21:44', '140', '33', '66', '36.765011', '127.281771', '66', '84')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '1', '2016-07-27', '23:21:44', '85', '71', '98', '36.765865', '127.28016', '379', '11')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '2', '2016-07-27', '23:21:44', '132', '25', '21', '36.763842', '127.277594', '232', '0')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '1', '2016-07-27', '23:21:44', '140', '54', '89', '36.761715', '127.28212', '474', '36')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '2', '2016-07-27', '23:21:45', '118', '44', '23', '36.761189', '127.279354', '998', '98')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '3', '2016-07-27', '23:21:45', '99', '10', '88', '36.765868', '127.279883', '1401', '86')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '3', '2016-07-27', '23:21:45', '18', '38', '69', '36.766884', '127.280155', '1011', '45')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '3', '2016-07-27', '23:21:45', '67', '44', '14', '36.761112', '127.279882', '933', '20')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '2', '2016-07-27', '23:21:45', '49', '32', '61', '36.763294', '127.279512', '1191', '97')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '1', '2016-07-27', '23:21:45', '71', '10', '8', '36.762679', '127.278861', '490', '62')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '2', '2016-07-27', '23:21:46', '23', '28', '57', '36.766306', '127.278313', '878', '65')
+;INSERT INTO  `deokkyun`.`practice_Drone_Data` (
+		`idx` ,
+		`drone_idx`,
+		`idx_date`,
+		`idx_time`,
+		`temperature`,
+		`humidity`,
+		`CO2`,
+		`latitude`,
+		`longitude`,
+		`altitude`,
+		`speed`
+		)
+		VALUES (
+		NULL ,  '3', '2016-07-27', '23:21:46', '111', '96', '39', '36.766216', '127.283902', '172', '75')
+;

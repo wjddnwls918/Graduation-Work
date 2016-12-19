@@ -1,0 +1,1789 @@
+INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'31','100','44','15.859','2.151'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'21','47','91','-23.991','73.453'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'8','68','66','-51.759','26.338'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'42','105','90','90.616','29.914'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'11','4','84','10.865','41.638'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'12','40','46','-96.034','23.501'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'32','196','39','-38.904','49.221'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'43','17','22','-88.647','48.441'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'27','147','13','38.2','91.484'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'8','172','67','-9.506','42.386'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'43','14','60','70.237','92.976'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'18','131','13','-3.219','71.018'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'20','120','5','53.09','69.506'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'46','148','57','43.996','4.312'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'14','11','2','-2.664','26.003'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'45','126','45','87.431','30.722'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'30','14','37','-46.828','6.282'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'37','139','5','-75.07','10.439'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'27','127','67','-49.658','12.533'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'26','118','41','96.97','77.56'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'15','148','24','-25.907','69.977'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'39','113','59','-35.937','69.237'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'4','22','89','13.925','83.139'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'21','48','82','69.178','56.336'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'42','168','37','17.968','62.209'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'38','183','15','-46.771','77.657'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'30','16','79','69.177','29.761'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'3','108','28','-16.147','85.434'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'41','52','5','-46.844','22.225'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'7','159','26','-31.817','54.253'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'8','113','52','-66.306','30.356'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'30','28','64','79.141','80.806'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'2','169','13','95.554','9.021'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'45','200','40','54.852','23.372'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'48','176','83','-25.055','39.335'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'5','86','67','57.587','9.491'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'43','8','3','37.703','98.06'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'37','96','42','99.532','93.193'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'19','179','41','-18.034','70.873'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'3','113','100','-57.67','56.103'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'43','25','17','-60.816','90.359'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'17','28','5','82.674','92.344'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'34','25','19','22.617','60.981'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'7','54','85','46.469','95.987'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'31','139','16','18.222','84.456'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'38','147','64','7.993','53.145'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'38','12','67','20.977','58.97'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'8','116','64','14.648','67.588'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'28','21','43','-51.077','5.263'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'44','5','17','-82.363','25.566'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'43','144','52','-6.213','44.453'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'3','70','83','-0.023','52.371'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'4','32','34','71.78','28.303'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'6','172','39','-28.699','67.581'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'20','35','50','84.379','30.92'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'33','27','92','-56.921','41.251'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'20','18','69','-87.751','27.422'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'28','1','65','90.756','11.874'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'23','186','78','3.644','55.949'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'12','66','38','-19.473','21.406'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'41','176','81','68.665','36.908'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'46','78','65','-50.978','6.028'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'2','34','67','-88.342','68.189'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'4','74','31','-58.29','32.522'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'8','18','87','70.717','85.938'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'40','128','56','59.017','34.666'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'7','183','93','59.419','45.966'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'2','129','16','71.809','96.158'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'41','22','42','79.739','26.216'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'7','91','100','43.094','71.932'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'21','36','70','-29.154','26.423'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'35','141','99','-6.976','75.409'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'24','151','44','-21.083','75.899'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'9','23','53','15.251','31.161'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'37','191','77','-42.478','2.692'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'45','160','92','32.542','63.624'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'17','44','45','-60.318','40.96'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'18','39','61','7.359','4.253'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'21','43','17','-27.793','32.655'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'29','3','24','64.498','32.623'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'3','38','57','-90.749','92.202'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'12','9','78','66.975','86.25'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'42','106','43','94.801','28.347'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'50','159','9','20.614','77.107'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'33','103','69','-53.545','13.021'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'15','154','10','-41.107','97.719'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'6','77','87','88.628','3.158'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'27','123','3','-19.005','87.173'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'49','34','44','-10.062','91.55'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'40','141','84','4.709','4.589'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'11','169','19','54.035','22.381'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'12','194','4','-4.219','51.013'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'6','15','50','1.758','35.609'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'44','75','55','-89.233','3.223'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'44','23','32','-7.669','66.054'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'34','56','5','-91.536','55.199'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'2','114','88','5.559','22.583'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'29','169','86','76.912','96.862'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'38','10','60','39.437','48.267'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'4','169','44','-66.539','25.184'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'14','48','20','-53.368','50.598'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'16','56','22','-91.983','15.489'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'20','109','99','-72.58','89'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'2','15','67','98.764','59.049'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'20','96','76','-54.518','80.521'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'11','74','51','93.868','36.82'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'49','155','20','40.777','55.095'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'18','73','45','91.627','52.427'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'36','87','96','-64.149','64.86'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'23','47','43','24.957','89.129'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'14','58','2','0.802','71.486'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'26','75','49','-48.631','78.814'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'46','15','59','77.987','98.866'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'12','62','67','-90.213','12.172'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'35','49','61','61.549','53.845'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'48','37','23','-80.487','86.767'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'32','61','39','83.494','44.838'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'22','40','42','-88.692','26.817'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'32','70','56','-60.09','62.647'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'1','7','85','-59.663','83.666'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'50','151','40','-63.603','4.523'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'47','181','73','38.122','22.057'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'28','112','55','-88.616','80.689'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'31','103','28','-77.555','13.088'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'49','164','40','18.285','61.161'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'39','186','29','34.649','97.774'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'43','197','60','40.106','74.827'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'29','134','60','79.687','88.207'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'44','32','6','-24.187','57.818'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'37','17','81','32.224','70.59'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'33','2','76','-87.686','28.52'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'28','90','18','7.168','76.025'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'26','44','94','-87.926','23.234'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'28','35','58','44.017','27.509'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'10','173','3','21.896','58.988'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'49','192','48','-3.949','95.972'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'50','49','68','56.559','67.626'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'9','110','45','44.173','84.132'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'36','51','29','-79.339','39.171'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'21','20','6','19.357','82.99'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'32','144','81','-44.365','84.578'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'41','136','96','-55.914','4.41'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'3','161','3','27.887','48.813'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'29','4','75','75.033','23.002'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'16','117','47','62.358','0.989'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'30','196','36','45.658','82.921'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'29','4','31','7.637','93.901'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'43','71','36','-17.708','68.798'
+		)
+;INSERT INTO  `deokkyun`.`data` (
+		`idx`,
+		`idx_flight_record`,
+		`idx_moving_route`,
+		`idx_drone`,
+		`temperature`,
+		`humidity`
+		
+		)
+		VALUES (
+		NULL ,'25','36','88','32.068','36.33'
+		)
+;

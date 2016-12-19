@@ -1,0 +1,1396 @@
+INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '189',  '145.641',  '158.4878',  '136.2863',  '167.8743',  '06:51:36',  '63.343',  '16-05-03 23:42:51',  '16-05-04 00:31:54'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '50',  '-23.1853',  '172.5695',  '-27.9697',  '166.1628',  '22:57:40',  '27.735',  '16-05-04 00:31:53',  '16-05-04 00:36:28'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '4',  '93.0006',  '-158.947',  '92.161',  '-159.3744',  '04:52:32',  '94.016',  '16-05-03 23:55:05',  '16-05-03 23:59:12'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '120',  '-158.2357',  '94.3466',  '-149.6272',  '85.0027',  '02:37:35',  '18.662',  '16-05-03 23:23:39',  '16-05-04 00:38:21'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '8',  '-8.7686',  '176.9452',  '-3.7596',  '173.0705',  '11:30:54',  '3.264',  '16-05-04 01:11:05',  '16-05-04 02:06:36'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '22',  '-33.9483',  '44.0574',  '-34.7136',  '39.4367',  '00:32:59',  '84.683',  '16-05-04 01:16:20',  '16-05-04 02:16:05'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '118',  '106.7744',  '158.3779',  '101.5491',  '167.8591',  '00:59:41',  '29.681',  '16-05-04 01:26:02',  '16-05-04 03:15:54'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '12',  '-0.5787',  '-53.1079',  '7.2829',  '-57.3299',  '10:27:47',  '49.213',  '16-05-04 00:06:22',  '16-05-04 02:04:10'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '82',  '54.7692',  '-90.3583',  '53.1615',  '-94.6419',  '02:46:48',  '24.173',  '16-05-03 23:33:58',  '16-05-04 01:27:06'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '39',  '-88.0293',  '-163.8077',  '-84.1952',  '-158.1707',  '05:34:59',  '56.42',  '16-05-04 00:29:32',  '16-05-04 01:24:29'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '139',  '-1.6458',  '-79.1305',  '-0.1851',  '-69.6983',  '05:36:47',  '33.196',  '16-05-04 01:01:28',  '16-05-04 02:11:08'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '44',  '-67.6559',  '58.1376',  '-59.669',  '61.011',  '12:12:10',  '15.808',  '16-05-04 00:22:56',  '16-05-04 00:26:57'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '37',  '55.3318',  '91.4939',  '54.3145',  '95.2034',  '09:30:21',  '36.085',  '16-05-04 01:25:37',  '16-05-04 02:00:48'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '38',  '79.3079',  '-140.2038',  '77.4186',  '-136.0798',  '10:37:59',  '91.384',  '16-05-04 00:02:23',  '16-05-04 00:49:04'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '15',  '-132.9584',  '-67.3417',  '-132.7554',  '-72.0789',  '00:10:40',  '23.138',  '16-05-04 01:34:14',  '16-05-04 02:31:02'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '45',  '-119.6139',  '22.0499',  '-120.9788',  '29.4478',  '00:55:33',  '85.744',  '16-05-03 23:36:25',  '16-05-04 01:07:43'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '185',  '-118.3684',  '125.063',  '-126.0515',  '132.8103',  '04:52:46',  '37.512',  '16-05-04 00:52:38',  '16-05-04 01:01:46'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '98',  '-172.6179',  '34.307',  '-178.1623',  '40.4065',  '02:35:06',  '79.145',  '16-05-04 00:12:07',  '16-05-04 01:04:00'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '174',  '21.1986',  '73.9279',  '22.2448',  '82.8901',  '08:51:54',  '35.581',  '16-05-04 00:39:58',  '16-05-04 01:17:12'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '129',  '164.2539',  '83.7723',  '166.6276',  '82.9718',  '10:18:27',  '71.982',  '16-05-03 23:46:54',  '16-05-04 00:43:53'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '45',  '35.7127',  '108.8015',  '36.7253',  '118.5862',  '08:39:37',  '40.418',  '16-05-04 00:16:25',  '16-05-04 00:44:50'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '163',  '-15.3356',  '177.5454',  '-25.0814',  '182.0281',  '05:09:53',  '64.552',  '16-05-03 23:56:11',  '16-05-04 01:20:03'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '134',  '45.1376',  '139.1983',  '50.5389',  '130.0971',  '04:07:17',  '15.91',  '16-05-04 01:33:27',  '16-05-04 02:32:42'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '173',  '101.6231',  '-171.8655',  '100.5665',  '-165.9359',  '10:07:56',  '59.698',  '16-05-03 23:47:38',  '16-05-04 00:22:48'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '112',  '-141.9177',  '178.2062',  '-134.6433',  '177.3773',  '07:23:52',  '43.751',  '16-05-03 23:17:28',  '16-05-03 23:43:57'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '173',  '-92.7949',  '170.7118',  '-95.9246',  '179.6529',  '03:41:37',  '17.366',  '16-05-04 01:03:27',  '16-05-04 02:43:42'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '56',  '-54.7566',  '96.495',  '-45.1072',  '96.9649',  '02:58:41',  '25.267',  '16-05-04 00:07:48',  '16-05-04 01:51:28'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '53',  '-27.1111',  '-133.0072',  '-30.9505',  '-124.968',  '01:26:39',  '80.137',  '16-05-03 23:56:50',  '16-05-04 00:01:11'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '43',  '97.5086',  '-50.4737',  '103.1741',  '-54.7933',  '00:14:20',  '40.099',  '16-05-03 23:45:14',  '16-05-04 00:00:03'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '72',  '166.5079',  '47.9046',  '175.4538',  '53.601',  '23:04:11',  '42.316',  '16-05-04 00:06:40',  '16-05-04 00:56:45'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '26',  '-46.7444',  '13.1065',  '-36.9948',  '11.0644',  '11:15:32',  '5.987',  '16-05-03 23:41:56',  '16-05-04 00:18:26'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '191',  '-48.6482',  '-35.3834',  '-54.7693',  '-33.5138',  '04:28:23',  '87.117',  '16-05-04 01:30:33',  '16-05-04 02:50:10'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '152',  '91.5562',  '-17.2341',  '97.2704',  '-12.7953',  '23:09:26',  '14.845',  '16-05-04 01:14:23',  '16-05-04 02:05:48'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '192',  '-36.319',  '56.8066',  '-42.8547',  '50.7786',  '01:31:48',  '63.241',  '16-05-03 23:02:28',  '16-05-04 00:53:09'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '31',  '16.5011',  '-23.3049',  '21.2398',  '-22.604',  '03:03:12',  '66.375',  '16-05-04 00:10:30',  '16-05-04 00:32:17'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '19',  '-151.5402',  '103.3762',  '-142.7256',  '113.3644',  '11:24:16',  '30.646',  '16-05-03 23:14:24',  '16-05-04 00:50:52'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '167',  '-173.8139',  '84.6749',  '-164.85',  '90.308',  '23:44:44',  '1.255',  '16-05-04 01:04:43',  '16-05-04 01:36:20'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '141',  '110.2137',  '-115.2191',  '111.7518',  '-118.921',  '07:43:33',  '44.645',  '16-05-03 23:59:35',  '16-05-04 00:24:42'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '77',  '-160.368',  '-37.1931',  '-160.5215',  '-45.7963',  '02:53:34',  '25.859',  '16-05-04 01:15:14',  '16-05-04 02:42:27'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '81',  '-14.2019',  '61.3753',  '-4.4892',  '63.2333',  '04:40:14',  '49.732',  '16-05-03 23:15:07',  '16-05-03 23:49:07'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '119',  '-59.5766',  '-63.5855',  '-58.0414',  '-58.8712',  '12:39:35',  '7.956',  '16-05-03 23:51:29',  '16-05-03 23:59:48'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '87',  '69.8393',  '-163.2622',  '75.7819',  '-161.1525',  '01:37:26',  '36.459',  '16-05-04 00:15:12',  '16-05-04 02:10:03'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '85',  '-158.107',  '56.5801',  '-166.2404',  '65.1955',  '09:44:33',  '68.303',  '16-05-04 00:11:43',  '16-05-04 01:58:30'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '79',  '-140.6403',  '85.6309',  '-148.4326',  '89.1806',  '07:46:59',  '92.761',  '16-05-04 00:49:26',  '16-05-04 01:38:55'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '175',  '89.7374',  '92.821',  '86.2496',  '85.3044',  '02:04:43',  '12.087',  '16-05-03 22:56:21',  '16-05-03 23:03:29'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '72',  '-2.8974',  '129.6956',  '4.5024',  '135.8602',  '10:32:12',  '78.795',  '16-05-04 00:04:36',  '16-05-04 01:20:56'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '85',  '-174.9491',  '11.844',  '-173.0105',  '18.8314',  '03:36:46',  '3.228',  '16-05-04 00:04:49',  '16-05-04 01:56:12'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '137',  '-150.9268',  '-141.7586',  '-157.1209',  '-137.341',  '04:48:13',  '96.345',  '16-05-03 22:58:09',  '16-05-04 00:20:42'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '61',  '-93.2228',  '-160.1045',  '-94.534',  '-152.9799',  '00:05:11',  '49.508',  '16-05-04 00:54:35',  '16-05-04 02:02:00'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '166',  '-107.1135',  '-20.7408',  '-106.6207',  '-26.2962',  '00:40:36',  '90.616',  '16-05-03 23:04:45',  '16-05-04 00:49:14'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '49',  '-36.4',  '31.823',  '-45.9858',  '22.1976',  '07:35:23',  '26.983',  '16-05-03 23:10:21',  '16-05-04 00:59:08'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '11',  '153.0264',  '152.139',  '155.2892',  '160.5856',  '04:43:28',  '91.314',  '16-05-04 00:22:56',  '16-05-04 01:52:03'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '95',  '-108.5511',  '105.315',  '-100.7342',  '112.8832',  '00:11:31',  '49.577',  '16-05-03 23:10:20',  '16-05-03 23:50:27'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '180',  '118.1749',  '-30.8226',  '117.7191',  '-31.744',  '07:48:48',  '5.363',  '16-05-03 23:27:34',  '16-05-04 00:54:00'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '77',  '116.052',  '153.0319',  '123.4296',  '144.8027',  '01:34:13',  '59.076',  '16-05-03 23:53:06',  '16-05-04 00:31:39'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '31',  '-2.3933',  '110.8622',  '-8.3773',  '109.9806',  '01:22:17',  '15.881',  '16-05-04 01:26:45',  '16-05-04 03:06:08'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '16',  '-10.4',  '167.9627',  '-7.2917',  '172.5101',  '08:41:04',  '66.344',  '16-05-03 23:13:33',  '16-05-04 00:36:37'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '50',  '81.7217',  '175.5338',  '90.2853',  '169.3831',  '00:57:16',  '4.895',  '16-05-04 01:09:51',  '16-05-04 01:55:41'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '183',  '99.7225',  '137.5563',  '104.3736',  '144.8608',  '00:25:29',  '72.167',  '16-05-03 23:51:12',  '16-05-04 01:44:10'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '93',  '-24.1129',  '8.4459',  '-29.0404',  '16.1681',  '06:07:59',  '91.02',  '16-05-04 00:37:11',  '16-05-04 01:17:21'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '154',  '-15.5713',  '147.2788',  '-6.7585',  '144.3119',  '07:53:42',  '99.842',  '16-05-04 01:16:47',  '16-05-04 01:43:42'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '129',  '-74.1822',  '-69.0649',  '-80.4219',  '-59.8481',  '09:03:19',  '33.789',  '16-05-04 00:21:54',  '16-05-04 00:26:28'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '34',  '43.266',  '156.187',  '49.7329',  '158.2649',  '11:58:42',  '98.83',  '16-05-03 23:35:21',  '16-05-03 23:51:29'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '130',  '-54.1561',  '-126.5148',  '-51.2539',  '-119.0663',  '08:32:22',  '51.685',  '16-05-04 00:03:40',  '16-05-04 01:39:28'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '67',  '47.4889',  '-128.4788',  '46.9691',  '-123.7856',  '10:14:00',  '40.253',  '16-05-04 00:55:23',  '16-05-04 01:46:53'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '118',  '-18.7958',  '159.9258',  '-13.5988',  '158.8368',  '23:37:05',  '79.72',  '16-05-03 23:05:26',  '16-05-03 23:36:44'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '75',  '-90.0676',  '-23.8879',  '-98.292',  '-17.2514',  '06:56:21',  '45.397',  '16-05-03 23:04:45',  '16-05-04 00:34:05'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '40',  '155.2978',  '94.018',  '163.3088',  '96.4285',  '12:16:46',  '8.036',  '16-05-04 00:51:05',  '16-05-04 02:43:00'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '165',  '-55.5562',  '-142.0838',  '-53.8405',  '-135.8007',  '00:22:17',  '40.706',  '16-05-04 01:27:17',  '16-05-04 02:45:38'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '66',  '39.054',  '164.7996',  '41.2547',  '170.894',  '05:16:28',  '72.745',  '16-05-04 00:06:42',  '16-05-04 01:37:11'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '31',  '160.4665',  '-73.0774',  '163.0108',  '-74.1471',  '10:38:13',  '50.179',  '16-05-03 23:15:22',  '16-05-04 01:06:56'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '130',  '163.6837',  '-104.7512',  '164.9923',  '-103.3286',  '00:31:37',  '2.804',  '16-05-03 23:21:16',  '16-05-04 00:21:06'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '34',  '-10.0419',  '95.2799',  '-16.3177',  '97.9616',  '06:00:55',  '41.402',  '16-05-04 00:07:13',  '16-05-04 00:28:34'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '1',  '-66.7049',  '57.9521',  '-73.6127',  '66.436',  '05:56:07',  '94.504',  '16-05-04 00:02:23',  '16-05-04 01:34:49'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '166',  '-125.6469',  '-120.8245',  '-133.5206',  '-127.4415',  '09:07:18',  '32.727',  '16-05-04 01:16:24',  '16-05-04 01:57:36'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '165',  '0.7214',  '85.3524',  '-4.4928',  '94.6327',  '08:06:04',  '77.773',  '16-05-04 00:17:40',  '16-05-04 02:04:37'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '78',  '35.9341',  '-66.9079',  '32.7397',  '-72.4331',  '12:27:47',  '70.477',  '16-05-04 00:21:15',  '16-05-04 01:40:47'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '58',  '-29.6118',  '-128.0732',  '-36.8369',  '-130.0261',  '11:48:56',  '68.775',  '16-05-04 01:01:28',  '16-05-04 01:19:03'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '1',  '-33.5009',  '-133.9477',  '-28.2589',  '-136.7052',  '01:08:06',  '83.212',  '16-05-04 01:04:27',  '16-05-04 02:50:20'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '18',  '-144.6414',  '67.8299',  '-150.2162',  '58.6765',  '09:59:53',  '90.718',  '16-05-04 01:27:44',  '16-05-04 01:37:02'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '34',  '-37.5016',  '-66.1183',  '-46.5769',  '-58.7645',  '12:32:30',  '64.892',  '16-05-04 00:34:22',  '16-05-04 02:24:24'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '147',  '-126.9812',  '-135.5049',  '-132.533',  '-143.8116',  '00:44:30',  '8.491',  '16-05-03 22:52:28',  '16-05-03 23:44:17'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '114',  '-111.6809',  '-32.0193',  '-107.638',  '-39.4416',  '10:15:20',  '46.628',  '16-05-04 01:35:55',  '16-05-04 01:52:20'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '68',  '125.4427',  '-106.0592',  '135.3424',  '-99.0322',  '23:58:27',  '8.893',  '16-05-03 23:49:09',  '16-05-04 01:43:14'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '74',  '20.9354',  '170.2093',  '16.5975',  '176.3364',  '06:48:55',  '14.176',  '16-05-03 23:41:42',  '16-05-04 00:06:48'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '82',  '4.6893',  '-156.0575',  '9.8693',  '-162.8352',  '00:39:00',  '99.03',  '16-05-04 00:49:10',  '16-05-04 00:58:45'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '181',  '-1.9138',  '-34.3526',  '6.8868',  '-31.0764',  '03:24:01',  '73.819',  '16-05-04 00:22:19',  '16-05-04 02:07:26'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '144',  '56.8713',  '115.9283',  '52.8766',  '108.1641',  '07:41:43',  '48.578',  '16-05-04 00:24:03',  '16-05-04 01:14:21'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '128',  '-54.9227',  '-84.2047',  '-58.9575',  '-89.5184',  '05:52:40',  '53.859',  '16-05-04 19:11:29',  '16-05-04 20:48:39'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '154',  '95.9382',  '5.1718',  '95.2079',  '9.618',  '22:24:39',  '91.47',  '16-05-09 18:13:11',  '16-05-09 18:43:50'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '78',  '95.2578',  '-23.3404',  '100.1584',  '-31.0869',  '08:44:02',  '83.116',  '16-05-16 21:07:12',  '16-05-16 21:35:40'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '109',  '-162.7197',  '176.3365',  '-172.5066',  '183.725',  '22:01:10',  '62.664',  '16-06-23 16:49:56',  '16-06-23 18:48:15'
+		)
+;INSERT INTO  `deokkyun`.`flight_record` (
+		`idx` ,
+		`idx_drone` ,
+		`start_point_lat` ,
+		`start_point_lng` ,
+		`target_point_lat` ,
+		`target_point_lng` ,
+		`flight_time` ,
+		`moving_distance` ,
+		`start_time` ,
+		`landing_time`
+		)
+		VALUES (
+		NULL ,  '27',  '93.5707',  '52.9107',  '86.7596',  '52.4544',  '19:58:39',  '82.37',  '16-07-21 14:16:12',  '16-07-21 15:33:00'
+		)
+;
