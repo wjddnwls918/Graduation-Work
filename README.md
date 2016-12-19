@@ -5,3 +5,13 @@
 
 =====================================
 [https://www.uoc.or.kr](https://www.uoc.or.kr)
+- 코드이그나이터 (PHP) 프레임워크 
+- MySQL
+- 자바스크립트
+
+=====================================
+- KOREATECH
+- Computer Science Engineering
+- UOC LAB
+- email : wjddnwls918@naver.com
+- phone : 010-9368-5828
