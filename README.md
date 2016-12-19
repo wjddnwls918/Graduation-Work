@@ -1,1 +1,7 @@
-# Graduation-Work
+## **드론기반 화재감지 및 중앙 관제 제어 시스템**
+팀원
+- 정우진 (wjddnwls918)
+- 김승규 ()
+
+=====================================
+[https://www.uoc.or.kr](https://www.uoc.or.kr)
