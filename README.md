@@ -4,7 +4,8 @@
 - 김승규 ()
 
 =====================================
-[https://www.uoc.or.kr](https://www.uoc.or.kr)
+
+[http://www.uoc.or.kr](http://www.uoc.or.kr)
 - 코드이그나이터 (PHP) 프레임워크 
 - MySQL
 - 자바스크립트
