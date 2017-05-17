@@ -1,70 +1,21 @@
-###################
-What is CodeIgniter
-###################
+## 코드이그나이터
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+코드이그나이터란?
 
-*******************
-Release Information
-*******************
+- 코드이그나이터 (CodeIgniter)는 PHP로 작성된 웹프레임워크다. 코드이그나이터는 일반적으로 필요한 프로그래밍 라이브러리를 제공하고
+있을 뿐 아니라 간편한 인터페이스와 논리적인 구조가 마련되어 있다. 첫 공개 버전은 2006년 2월 28일에 발표되었다. 코드이그나이터는 
+PHP4이상에서 작동된다. 각종 벤치마크에서는 PHP 웹프레임워크 중에서 빠른 편으로 알려지고 있다. (Yii, Yaf, Laravel, Slim 등이 더 빠르거나 비슷하다)
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+=====================================
 
-**************************
-Changelog and New Features
-**************************
+[MVC 패턴](https://ko.wikipedia.org/wiki/%EB%AA%A8%EB%8D%B8-%EB%B7%B0-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC)
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+[코드이그나이터 사용자포럼](http://www.codeigniter-kr.org/)
 
-*******************
-Server Requirements
-*******************
 
-PHP version 5.4 or newer is recommended.
-
-It should work on 5.2.4 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
-
-************
-Installation
-************
-
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
-
-*******
-License
-*******
-
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
-
-*********
-Resources
-*********
-
--  `User Guide <https://codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community IRC <https://webchat.freenode.net/?channels=%23codeigniter>`_
-
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
-
-***************
-Acknowledgement
-***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+=====================================
+- KOREATECH
+- Computer Science Engineering
+- UOC LAB
+- email : wjddnwls918@naver.com
+- phone : 010-9368-5828
