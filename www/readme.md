@@ -26,6 +26,8 @@ Graduation-Work/www/public/은 사용할 라이브러리들과 사용자가 설정한 파일들로 구�
 
 [코드이그나이터 사용자포럼](http://www.codeigniter-kr.org/)
 
+[생활코딩 - CodeIgniter](https://opentutorials.org/course/697/3824)
+
 =====================================
 - KOREATECH
 - Computer Science Engineering
