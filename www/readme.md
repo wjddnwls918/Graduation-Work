@@ -19,12 +19,11 @@ models, controllers, views가 주된 폴더입니다.
 
 Graduation-Work/www/public/은 사용할 라이브러리들과 사용자가 설정한 파일들로 구성되었습니다.
 
-=====================================
 
-=====================================
+**참고** 
 
-###참고 
 [MVC 패턴](https://ko.wikipedia.org/wiki/%EB%AA%A8%EB%8D%B8-%EB%B7%B0-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC)
+
 [코드이그나이터 사용자포럼](http://www.codeigniter-kr.org/)
 
 =====================================
