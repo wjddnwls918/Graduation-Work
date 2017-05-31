@@ -1,4 +1,4 @@
-	    <!-- content header -->
+﻿	    <!-- content header -->
 		<div class="row">
             <div class="col-lg-12">
                 <h1 class="page-header">비행일지
@@ -39,7 +39,7 @@
 			<!-- map&information column -->
 			<div class="col-lg-10">
 				<button class="btn btn-default btn-sm btn_command" onclick="setBounds()">드론 경로 확인</button> 	
-				<button class="btn btn-default btn-sm btn_command" id="contents" style="margin-left:700px" value="<?=$item[$count]['drone_idx']?>">목록 </button>
+				<!--<button class="btn btn-default btn-sm btn_command" id="contents" style="margin-left:700px" value="<?=$item[$count]['drone_idx']?>">목록 </button>-->
 				<!-- map -->
 				<div style="margin-top:10px;">
 					<div class="col-lg-8">

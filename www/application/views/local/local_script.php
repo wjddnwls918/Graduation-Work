@@ -20,7 +20,7 @@ $('.sensor1').click(function() {
 });
 
 $('.sensor2').click(function() {
-	var link = "http://www.naver.com";
+	var link = "/local_controller/pop_local_info/2";
 	
 	if(whiteListLocal.indexOf(link)!== -1)
 		link=link;
