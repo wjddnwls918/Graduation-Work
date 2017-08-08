@@ -34,8 +34,8 @@
                 <legend>로그인</legend>
                 
 				<div class="form-group" style="text-align: left">
-                    <label for="username-email">아이디</label>
-                    <input type="text" class="form-control" id="email" name ="email" placeholder="email" style="width:100%" />
+                    <label for="email">아이디</label>
+                    <input type="email" class="form-control" id="email" name ="email" placeholder="email" style="width:100%" / autofocus >
                 </div>
                 
 				<div class="form-group" style="text-align: left">

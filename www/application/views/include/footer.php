@@ -1,6 +1,11 @@
-
-	  <hr class ="localfooter">
-		<footer>
+	
+	
+	  
+	  <hr class ="localfooter" style="margin-top:5%">
+	
+	
+	<footer>	
+	<div class="container"  >
 					<div class="row">
 						<div class="col-lg-12">
 							<div class="col-lg-1">
@@ -16,7 +21,9 @@
 							</div>
 						</div>
 					</div>
-		</footer>
+		
+	</div>
+	</footer>
         <!-- /.row -->
 
      </div>

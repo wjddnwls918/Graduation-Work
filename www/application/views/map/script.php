@@ -1165,6 +1165,7 @@ function setDragZoom(zoomable, draggable) {
 	// 명령 테스트용  명령 테스트용  명령 테스트용  명령 테스트용
 	$(document).ready(function() {
 		$(".btn_command").click(function(){
+			//alert("Test");
 			send_command($(this).data("command"));
 		});
 		

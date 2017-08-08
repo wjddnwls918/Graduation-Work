@@ -153,7 +153,7 @@ app.get('/',function(req,res)
 				        port : 10188,
 				        host : '218.150.181.163'
 				    }
-			 ,
+			 
 				    function() {
 				        this.setTimeout(500);
 				        this.setEncoding('utf8');

@@ -4,9 +4,9 @@
     <?php echo validation_errors(); ?>
     <form class="webform-horizon" action="/login/register" method="post" style="padding-top:5%;">
       <div class="form-group" style="text-align: left">
-        <label for="inputEmail">이메일</label>
+        <label for="email">이메일</label>
        
-          <input type="text" class ="form-control" id="email" name="email" value="<?php echo set_value('email'); ?>" placeholder="이메일">
+          <input type="email" class ="form-control" id="email" name="email" value="<?php echo set_value('email'); ?>" placeholder="이메일" autofocus >
        
       </div>
       <div class="form-group" style="text-align: left">

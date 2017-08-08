@@ -409,11 +409,11 @@ li.localli, li.weatherli {
 
 .droneTapImg1{
 	float: left;
-	margin-left: 240px;
+	margin-left: 7%;
 }
 
 .droneTapWrite1 {
-	margin : 15px 0 10px 120px;
+	margin-left: 10px;
 }
 
 .droneManual {
@@ -456,3 +456,5 @@ a.droneNameClick1:hover { color: black; text-decoration: underline;}
 #uocImage {
 	float: right;
 }
+
+

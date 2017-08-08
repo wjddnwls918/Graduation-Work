@@ -27,7 +27,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 
 //base url 설정
-$config['base_url'] = 'https://www.uoc.or.kr/';
+$config['base_url'] = 'http://www.uoc.or.kr';
 
 /*
 |--------------------------------------------------------------------------
@@ -376,7 +376,7 @@ $config['encryption_key'] = 'sb1xj81.#dj2<dob82d>2so*sjcaox^1';
 $config['sess_driver'] = 'database';
 $config['sess_cookie_name'] = 'ci_session';
 //세션 만료
-$config['sess_expiration'] = 3600;
+$config['sess_expiration'] = 7200;
 $config['sess_save_path'] = 'ci_sessions';
 $config['sess_expire_on_close'] = TRUE;
 

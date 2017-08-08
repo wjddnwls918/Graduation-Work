@@ -8,7 +8,7 @@ var whiteListLocal = ['/local_controller/pop_local_info/1', '/local_controller/p
 					'/local_controller/pop_local_info/5', '/local_controller/pop_local_info/6'];
 
 					
-$('.sensor1').click(function() {
+$('#sensor1').click(function() {
 	var link = "/local_controller/pop_local_info/1";
 	
 	if(whiteListLocal.indexOf(link)!== -1)
@@ -19,7 +19,7 @@ $('.sensor1').click(function() {
 	window.open(link, "sensor1", "width=600, height=900, toolbar=no, menubar=no, scrollbars=no, resizable=yes");
 });
 
-$('.sensor2').click(function() {
+$('#sensor2').click(function() {
 	var link = "/local_controller/pop_local_info/2";
 	
 	if(whiteListLocal.indexOf(link)!== -1)
@@ -30,7 +30,7 @@ $('.sensor2').click(function() {
 	window.open(link, "sensor2", "width=600, height=900, toolbar=no, menubar=no, scrollbars=no, resizable=yes");
 });
 
-$('.sensor3').click(function() {
+$('#sensor3').click(function() {
 	var link = "/local_controller/pop_local_info/3";
 	
 	if(whiteListLocal.indexOf(link)!== -1)
@@ -41,7 +41,7 @@ $('.sensor3').click(function() {
 	window.open(link, "sensor3", "width=600, height=900, toolbar=no, menubar=no, scrollbars=no, resizable=yes");
 });
 
-$('.sensor4').click(function() {
+$('#sensor4').click(function() {
 	var link = "/local_controller/pop_local_info/4";
 	
 	if(whiteListLocal.indexOf(link)!== -1)
@@ -52,7 +52,7 @@ $('.sensor4').click(function() {
 	window.open(link, "sensor4", "width=600, height=900, toolbar=no, menubar=no, scrollbars=no, resizable=yes");
 });
 
-$('.sensor5').click(function() {
+$('#sensor5').click(function() {
 	var link = "/local_controller/pop_local_info/5";
 	
 	if(whiteListLocal.indexOf(link)!== -1)
@@ -63,7 +63,7 @@ $('.sensor5').click(function() {
 	window.open(link, "sensor5", "width=600, height=900, toolbar=no, menubar=no, scrollbars=no, resizable=yes");
 });
 
-$('.sensor6').click(function() {
+$('#sensor6').click(function() {
 	var link = "/local_controller/pop_local_info/6";
 	
 	if(whiteListLocal.indexOf(link)!== -1)
@@ -310,6 +310,8 @@ $('.sensor6').click(function() {
 		}
 		
 		setInterval( function () { get();  },2000);
+		
+		
 		
 	});
 	

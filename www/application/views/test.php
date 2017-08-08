@@ -23,7 +23,7 @@
             <div class="col-md-4">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4><i class="fa fa-fw fa-gift"></i> 로컬 센서 감시</h4>
+                        <h4><i class="fa fa-fw fa-gift"></i> 로컬 센서 관제</h4>
                     </div>
                     <div class="panel-body">
                         <p>각 지역마다 위치한 로컬 센서들의 데이터 값들을 확인해 보세요! 온도, 습도, 이산화탄소의 변화량을 이용하여 화재 감지를 실시합니다.</p>

@@ -205,6 +205,8 @@
      
 	 if (realtime === "on")
         setTimeout(update, updateInterval);
+	
+	
     }
 
     //INITIALIZE REALTIME DATA FETCHING

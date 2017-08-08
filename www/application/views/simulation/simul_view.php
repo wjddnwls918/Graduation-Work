@@ -4,7 +4,7 @@
                     <small>상황 시뮬레이션</small>
                 </h1>
                 <ol class="breadcrumb">
-                    <li><a href="/welcome/afterlogin">Home</a>
+                    <li><a href="/welcome">Home</a>
                     </li>
                     <li class="active"><a href="/Simul_controller">Simulation</li>
 				</ol>
@@ -118,11 +118,11 @@
 				<div class="col-md-12">
 				<div class="col-md-4" id="controlDrone">    
 					<div class="col-md-12" style="margin-bottom:10px" id="droneNameBottom">
-						<p class="droneName" >Drone <strong><img src="/public/common/image/drone1.png" style="width:30px; height:30px;">(Header)</strong></a></p>
+						<p class="droneName" >Drone <strong><img src="/public/common/image/drone1.png" style="width:30px; height:30px; float:right">(Header)</strong></a></p>
 						<button type="button" id="drone1" value="0" style="display: none; "></button>
 					</div>  
 		
-					<div class="col-md-12" style="margin-bottom:10px;">
+					<div class="col-md-12" style="margin:10px auto;">
 						
 					</div>
 					

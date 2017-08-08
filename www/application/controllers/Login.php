@@ -79,7 +79,7 @@ class Login extends CI_Controller
 		$this->form_validation->set_rules('password', '비밀번호', 'required|min_length[6]|max_length[30]|matches[re_password]|callback_test');
 		$this->form_validation->set_rules('re_password', '비밀번호 확인', 'required');
  
- 
+
 		//$this->form_validation->run();
 	
 	

@@ -26,15 +26,18 @@
 		
 		<div class="col-md-10">    
 			<div class="col-md-12" id="droneDiv1">
-					<div class="col-md-3">
-						<img class="droneTapImg1" src="/public/common/image/control.png" width="100px" height="100px">
-					</div>
-					<div class="col-md-9" style="padding-left:20px; padding-top:20px">
-						<p class="droneTapWrite1">드론 관제 페이지입니다.<br>
+					
+					<div class="container">
+					<div class="row" style="padding-top:2%; padding-left:3% "> 
+					
+						<img  src="/public/common/image/control.png" width="80px" height="80px" >
+						<p >드론 관제 페이지입니다.<br>
 						각 드론을 <b><span style="color:red">Click</span></b>하면 컨트롤 할 수 있습니다.</p>
-					</div>					
-					<div class="col-md-12" style="margin-top:20px">
-						<p><b><h4>관제방법</h4></b><p>
+							
+					</div>
+					</div>
+					<div class="col-md-12" >
+						<p><b><h5>관제방법</h5></b><p>
 						<ul class="droneManual">
 							<li><b>명령 전달 전 드론을 선택합니다.  (ON/OFF)</b></li>
 							<li><b>특정 로컬 센서의 데이터 값이 변하는 경우 해당 위치의 색이 변합니다.</b></li>
@@ -47,8 +50,10 @@
 			</div>
 				
 			<!--------------- 실시간 관제 영상 -------------->
+			<div class="container">
+			<div class="col-md-10" style="float:left;">
 			<div class="col-md-4" id="controlDrone">    
-				<div class="col-md-12" style="margin-bottom:10px" id="droneNameBottom">
+				<div class="col-sm-12" style="margin-bottom:10px" id="droneNameBottom">
 					<p class="droneName"><a id="droneNameClick1">Drone <strong>No.1</a></strong></a></p>
 					
 					<button type="button" id="drone1" value="0" style="display: none; "></button>
@@ -57,15 +62,28 @@
 	
 
 				<div class="col-md-12" style="margin-bottom:10px;">
+					<div class="btn-group btn-group-justified" role="group" aria-label="...">
+				  <div class="btn-group" role="group">
+					<button type="button" class="btn btn-default btn_command" data-command="1"> Power</button>
+				  </div>
+				  <div class="btn-group" role="group">
+					<button type="button" class="btn btn-default btn_command" data-command="2"> Middle</button>
+				  </div>
+				  <div class="btn-group" role="group">
+					<button type="button" class="btn btn-default btn_command" data-command="3"> Right</button>
+				  </div>
+				</div>
 					<!-- 실제버튼 
 					<button type="button"  class="btn btn-success btn-sm btn_command" style="margin: 3px" data-command="1">Power</button>
 					<button type="button"  class="btn btn-success btn-sm btn_command" style="margin: 3px" data-command="2">Stop</button>
 					<button type="button"  class="btn btn-success btn-sm btn_command" style="margin: 3px" data-command="3">Descent</button>
 					-->
 					<!-- 테스트용 버튼 -->
+					<!--
 					<button type="button"  class="btn btn-custom btn-sm btn_command" style="margin-right: 30px" data-command="1">Power</button>
 					<button type="button"  class="btn btn-custom btn-sm btn_command" style="margin-right: 30px" data-command="2">Stop</button>
 					<button type="button"  class="btn btn-custom btn-sm btn_command"  data-command="3">Landing</button>
+					-->
 					<!--<button type="button"  class="btn btn-custom btn-sm btn_command" data-command="4">TEKJHSKJT</button> -->
 					<!--
 					<label>throttle <input class="col-md-12" id="throttle" type="number" value=1000></label>
@@ -97,15 +115,28 @@
 	  
 	  
 			<div class="col-md-4" id="controlDrone">
-				<div class="col-md-12" style="margin-bottom:10px" id="droneNameBottom">
+				<div class="col-sm-12" style="margin-bottom:10px" id="droneNameBottom">
 					<p class="droneName"><a id="droneNameClick2">Drone <strong>No.2</a></strong></p>
 					<button type="button" id="drone2" value="0" style="display: none;"></button>
 				</div>
 				
 				<div class="col-md-12" style="margin-bottom:10px;">
+				<div class="btn-group btn-group-justified" role="group" aria-label="...">
+				  <div class="btn-group" role="group">
+					<button type="button" class="btn btn-default btn_command" data-command="1"> Power</button>
+				  </div>
+				  <div class="btn-group" role="group">
+					<button type="button" class="btn btn-default btn_command" data-command="2"> Middle</button>
+				  </div>
+				  <div class="btn-group" role="group">
+					<button type="button" class="btn btn-default btn_command" data-command="3"> Right</button>
+				  </div>
+				</div>
+				<!--
 					<button type="button"  class="btn btn-custom btn-sm btn_command" style="margin-right: 30px" data-command="1">Power</button>
 					<button type="button"  class="btn btn-custom btn-sm btn_command" style="margin-right: 30px" data-command="2">Stop</button>
 					<button type="button"  class="btn btn-custom btn-sm btn_command"  data-command="3">Landing</button>
+					-->
 				</div>
 				
 				<div class="col-md-4" style="border: 1px solid #BDBDBD; filter:alpha(opacity=50);">
@@ -114,15 +145,28 @@
 			</div>
 
 			<div class="col-md-4" id="controlDrone">
-				<div class="col-md-12" style="margin-bottom:10px" id="droneNameBottom">
+				<div class="col-sm-12" style="margin-bottom:10px" id="droneNameBottom">
 					<p class="droneName"><a id="droneNameClick3">Drone <strong>No.3</a></strong></p>
 					<button type="button" id="drone3" value="0" style="display: none;"></button>
 				</div>
 				
 				<div class="col-md-12" style="margin-bottom:10px;">
+					<div class="btn-group btn-group-justified" role="group" aria-label="...">
+				  <div class="btn-group" role="group">
+					<button type="button" class="btn btn-default btn_command" data-command="1"> Power</button>
+				  </div>
+				  <div class="btn-group" role="group">
+					<button type="button" class="btn btn-default btn_command" data-command="2"> Middle</button>
+				  </div>
+				  <div class="btn-group" role="group">
+					<button type="button" class="btn btn-default btn_command" data-command="3"> Right</button>
+				  </div>
+				</div>
+				<!--
 					<button type="button"  class="btn btn-custom btn-sm btn_command" style="margin-right: 30px" data-command="1">Power</button>
 					<button type="button"  class="btn btn-custom btn-sm btn_command" style="margin-right: 30px" data-command="2">Stop</button>
 					<button type="button"  class="btn btn-custom btn-sm btn_command"  data-command="3">Landing</button>
+					-->
 				</div>
 				
 				
@@ -130,7 +174,8 @@
 					<img src="경로">
 				</div>
 			</div>
-
+			</div>
+		</div>
 			<!-- 지도 -->
 			<div class="video_single col-md-12">
 				<br />

@@ -101,14 +101,19 @@
 							<i class="fa fa-bar-chart-o"></i>
 							<h3 class="box-title"><strong>Local Sensor No.<?=$data['localId'];?></strong> Real-Time Chart</h3>
 				   
-							<div class="box-tools pull-right">
+						<!--
+						<div class="container">
+							<div class="box-tools pull-right" style="float:left;">
 								Real time
 								<div class="btn-group" id="realtime" data-toggle="btn-toggle">
 									<button type="button" class="btn btn-default btn-xs active" data-toggle="on">On</button>
-									<button type="button" class="btn btn-default btn-xs" data-toggle="off">Off</button>
+									<button type="button" class="btn btn-default btn-xs " data-toggle="off">Off</button>
 								</div>
 							</div>
+							</div>
+							
 						</div>
+						-->
 			
 						<div class="box-body">
 							<div id="interactive" style="height: 500px; padding: 0px; position: relative;">
