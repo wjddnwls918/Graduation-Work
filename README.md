@@ -5,7 +5,7 @@
 
 =====================================
 
-[http://www.uoc.or.kr](http://www.uoc.or.kr)
+[http://wangtou.cafe24.com](http://wangtou.cafe24.com)
 - 코드이그나이터 (PHP) 프레임워크 
 - MySQL
 - 자바스크립트
