@@ -1,4 +1,4 @@
-<script type="text/javascript" src="//apis.daum.net/maps/maps3.js?apikey=61f79651c17b7db52c47db93b62de00d"></script>
+<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=cddcd2e91c1e74e228286a8b06ded53e"></script>
 
 <script>
 var checkflag = [0,0,0,0,0,0];

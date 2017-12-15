@@ -1,6 +1,4 @@
-﻿<script type="text/javascript" src="//apis.daum.net/maps/maps3.js?apikey=
-61f79651c17b7db52c47db93b62de00d"></script>
-
+﻿<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=cddcd2e91c1e74e228286a8b06ded53e"></script>
 <script>
 
 var whiteListLocal = ['/local_controller/pop_local_info/1', '/local_controller/pop_local_info/2',
@@ -73,6 +71,30 @@ $('#sensor6').click(function() {
 
 	window.open(link, "sensor6", "width=600, height=900, toolbar=no, menubar=no, scrollbars=no, resizable=yes");
 });
+
+
+$('.testbutton').click(function()
+	{
+		console.log("test");
+		console.log($('.inputtext').val());
+		$.ajax(
+		{
+			url:'http://127.0.0.1:3000/send',
+			dataType: 'json',
+			type:'post',
+			data:{ 'msg':$('.inputtext').val()},
+			
+			success : function(result)
+			{
+				if( result['result'] ==true)
+				{
+					console.log( "sucess");
+				}
+			}
+			
+		});
+	});
+	
 
 	// checkflag가 0 - 이상없음, 1 - 화재주의, 2 - 화재위험, 3 - 지진주의, 4 - 지진위험, 5 - 홍수주의, 6 - 홍수위험
 	var checkflag = [0,0,0,0,0,0];

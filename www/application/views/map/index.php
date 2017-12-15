@@ -71,8 +71,12 @@
 				  </div>
 				  <div class="btn-group" role="group">
 					<button type="button" class="btn btn-default btn_command" data-command="3"> Right</button>
-				  </div>
+					
+				  </div>					
 				</div>
+				
+				
+				
 					<!-- 실제버튼 
 					<button type="button"  class="btn btn-success btn-sm btn_command" style="margin: 3px" data-command="1">Power</button>
 					<button type="button"  class="btn btn-success btn-sm btn_command" style="margin: 3px" data-command="2">Stop</button>

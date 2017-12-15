@@ -1,9 +1,19 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Simul_model extends CI_Model 
+class Search_model extends CI_Model 
 {
-
+	public function find($data)
+	{
+		
+		echo $data['_type'];
+		echo $data['_text'];
+		if( $data['_type'] == 
+		$this->db->from('ci_board');
+		
+		//return $result;
+	
+	}
 	public function insertdb($temp,$hum,$CO2)
 	{
 		$data = array(

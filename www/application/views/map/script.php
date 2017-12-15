@@ -1,4 +1,4 @@
-<script type="text/javascript" src="//apis.daum.net/maps/maps3.js?apikey=61f79651c17b7db52c47db93b62de00d"></script>
+<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=cddcd2e91c1e74e228286a8b06ded53e"></script>
 
 <script>
 	var selectDrone = 0;   // 선택된 드론을 판별해주는 변수입니다
@@ -1194,7 +1194,7 @@ function setDragZoom(zoomable, draggable) {
 		})
 	});
 
-/* 이거 사용할거임     이거 사용할거임      이거 사용할거임
+// 이거 사용할거임     이거 사용할거임      이거 사용할거임
 $(document).ready(function() {
 	$(".btn_command").click(function(){
 		if(selectDrone != 0) {
@@ -1227,9 +1227,9 @@ $(document).ready(function() {
 			
 	}
 });
-*/
 
 
+//
 
 
 

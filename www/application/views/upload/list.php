@@ -67,10 +67,34 @@
 								</table>
 							</div>
 						</div>
-						<div style="text-align:right;">
-						  <a href="/data/add"   class="btn btn-sm btn-custom"> 글 쓰기 </a>  
-						</div>
-						<div style="text-align: center;">
+					
+							<div class="col-md-12" >
+							
+								<form class="form-inline" style="float:right;" action="/search" method="post">
+								  <div class="form-group">
+														
+										<select class="form-control selecter" name="_type">
+										  <option value="title">제목</option>
+										  <option value="contents">내용</option>
+										  <option value="writer">작성자</option>
+									
+										</select>									
+								
+									<input type="text" class="form-control" name ="_text" id="exampleInputName2" placeholder="검색할 내용을 입력하세요">
+								  </div>
+								 
+								  <button type="submit" class="btn btn-default">검색</button>
+								  <a href="/data/add"   class="btn btn-default"> 글 쓰기 </a>   
+								</form>
+							
+				
+							 
+							  
+															  
+							</div>
+							
+					
+						<div class ="col-sm-12" style="padding-left: 33%">
 							<?=$page;?> 
 						</div>     
 						

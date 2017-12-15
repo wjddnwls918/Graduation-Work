@@ -86,6 +86,16 @@
 				</div>
 
 				</div>
+				<!-- 새로운 조작 버튼 넣을 자리 -->
+				<div class="col-md-12">
+					<div class="btn-group" role="group">
+					<input type="text" class="inputtext"/>
+					<button type="button" class="testbutton" >test</button>
+					</div>	
+				<div class="row">
+				</div>
+				</div>
+				
 				<!-- Local Sensor List end -->
 			
 				<div style="height:10px;"></div>

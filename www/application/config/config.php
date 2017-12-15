@@ -27,7 +27,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 
 //base url 설정
-$config['base_url'] = 'http://www.uoc.or.kr';
+$config['base_url'] = 'http://wangtou.cafe24.com';
 
 /*
 |--------------------------------------------------------------------------

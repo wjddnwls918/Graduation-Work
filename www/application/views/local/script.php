@@ -2,6 +2,8 @@
 
 	var handle = false;
 
+	
+	
 	$('#restart').click(function()
 	{
 		//console.log("tset!!");
@@ -178,13 +180,16 @@
 		  },
 		  
 		  lines: {
-			fill: true, //Converts the line chart to area chart
+			fill: false, //Converts the line chart to area chart
 			color: "#3c8dbc"
 		  },
 		  
+		
+		  
 		  yaxis: {
-			min: checkMinimum()-10,
-			max: checkMaximum()+10,
+			ticks : 10 ,
+			min: checkMinimum()-50,
+			max: checkMaximum()+80,
 			show: true
 		  },
 		  

@@ -52,7 +52,7 @@ $("#inputdata").click(function()
 
 	$.ajax(
 	{
-		url: "http://218.150.181.154:3000/?data1=" +add_data,
+		url: "http://192.168.219.195:3000/?data1=" +add_data,
 		
 		// 크로스도메인 핵심!! 
 		dataType: 'jsonp',
@@ -79,7 +79,7 @@ $("#dronebutton_start1").click(function(){
 	
 	$.ajax(
 	{
-		url: "http://218.150.181.154:3000/?sendData=" + start_data+"&data1=1",
+		url: "http://192.168.219.195:3000/?sendData=" + start_data+"&data1=1",
 		// 크로스도메인 핵심!! 
 		dataType: 'jsonp',
 		
@@ -104,7 +104,7 @@ $("#dronebutton_stop1").click(function(){
 	stop_data = $("#inputtest").val();
 	$.ajax(
 	{
-		url: "http://218.150.181.154:3000/?sendData=" + stop_data+"&data1=2",
+		url: "http://192.168.219.195:3000/?sendData=" + stop_data+"&data1=2",
 		
 		//크로스도메인 핵심!! 
 		dataType: 'jsonp',
@@ -130,7 +130,7 @@ $("#dronebutton_move1").click(function(){
 	
 	$.ajax(
 	{
-		url: "http://218.150.181.154:3000/?sendData=" + move_data+"&data1=3",
+		url: "http://192.168.219.195:3000/?sendData=" + move_data+"&data1=3",
 		
 		// 크로스도메인 핵심!! 
 		dataType: 'jsonp',
@@ -158,7 +158,7 @@ function button1_click(param)
 	console.log(data1);
 	$.ajax(
 	{
-		url: "http://218.150.181.154:3000/?sendData=" + param+"&data1="+data1+"&data2="+data2,
+		url: "http://192.168.219.195:3000/?sendData=" + param+"&data1="+data1+"&data2="+data2,
 		
 		/* 크로스도메인 핵심!! */
 		dataType: 'jsonp',
