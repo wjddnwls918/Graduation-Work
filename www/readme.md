@@ -1,34 +1,34 @@
-## ÄÚµåÀÌ±×³ªÀÌÅÍ
+## ì½”ë“œì´ê·¸ë‚˜ì´í„°
 
-ÄÚµåÀÌ±×³ªÀÌÅÍ¶õ?
+ì½”ë“œì´ê·¸ë‚˜ì´í„°ëž€?
 
-- ÄÚµåÀÌ±×³ªÀÌÅÍ (CodeIgniter)´Â PHP·Î ÀÛ¼ºµÈ À¥ÇÁ·¹ÀÓ¿öÅ©´Ù. ÄÚµåÀÌ±×³ªÀÌÅÍ´Â ÀÏ¹ÝÀûÀ¸·Î ÇÊ¿äÇÑ ÇÁ·Î±×·¡¹Ö ¶óÀÌºê·¯¸®¸¦ Á¦°øÇÏ°í
-ÀÖÀ» »Ó ¾Æ´Ï¶ó °£ÆíÇÑ ÀÎÅÍÆäÀÌ½º¿Í ³í¸®ÀûÀÎ ±¸Á¶°¡ ¸¶·ÃµÇ¾î ÀÖ´Ù. Ã¹ °ø°³ ¹öÀüÀº 2006³â 2¿ù 28ÀÏ¿¡ ¹ßÇ¥µÇ¾ú´Ù. ÄÚµåÀÌ±×³ªÀÌÅÍ´Â 
-PHP4ÀÌ»ó¿¡¼­ ÀÛµ¿µÈ´Ù. °¢Á¾ º¥Ä¡¸¶Å©¿¡¼­´Â PHP À¥ÇÁ·¹ÀÓ¿öÅ© Áß¿¡¼­ ºü¸¥ ÆíÀ¸·Î ¾Ë·ÁÁö°í ÀÖ´Ù. (Yii, Yaf, Laravel, Slim µîÀÌ ´õ ºü¸£°Å³ª ºñ½ÁÇÏ´Ù)
+- ì½”ë“œì´ê·¸ë‚˜ì´í„° (CodeIgniter)ëŠ” PHPë¡œ ìž‘ì„±ëœ ì›¹í”„ë ˆìž„ì›Œí¬ë‹¤. ì½”ë“œì´ê·¸ë‚˜ì´í„°ëŠ” ì¼ë°˜ì ìœ¼ë¡œ í•„ìš”í•œ í”„ë¡œê·¸ëž˜ë° ë¼ì´ë¸ŒëŸ¬ë¦¬ë¥¼ ì œê³µí•˜ê³ 
+ìžˆì„ ë¿ ì•„ë‹ˆë¼ ê°„íŽ¸í•œ ì¸í„°íŽ˜ì´ìŠ¤ì™€ ë…¼ë¦¬ì ì¸ êµ¬ì¡°ê°€ ë§ˆë ¨ë˜ì–´ ìžˆë‹¤. ì²« ê³µê°œ ë²„ì „ì€ 2006ë…„ 2ì›” 28ì¼ì— ë°œí‘œë˜ì—ˆë‹¤. ì½”ë“œì´ê·¸ë‚˜ì´í„°ëŠ” 
+PHP4ì´ìƒì—ì„œ ìž‘ë™ëœë‹¤. ê°ì¢… ë²¤ì¹˜ë§ˆí¬ì—ì„œëŠ” PHP ì›¹í”„ë ˆìž„ì›Œí¬ ì¤‘ì—ì„œ ë¹ ë¥¸ íŽ¸ìœ¼ë¡œ ì•Œë ¤ì§€ê³  ìžˆë‹¤. (Yii, Yaf, Laravel, Slim ë“±ì´ ë” ë¹ ë¥´ê±°ë‚˜ ë¹„ìŠ·í•˜ë‹¤)
 
-=====================================
+-------------------------------------------------------------
 
-Graduation-Work/www/application/ÀÇ
+Graduation-Work/www/application/ì˜
 
-models, controllers, views°¡ ÁÖµÈ Æú´õÀÔ´Ï´Ù.
+models, controllers, viewsê°€ ì£¼ëœ í´ë”ìž…ë‹ˆë‹¤.
 
-°£´ÜÇÏ°Ô ¼³¸íÇÏ¸é 
-ÄÁÆ®·Ñ·¯¸¦ ÅëÇØ ¸ðµ¨°ú ºä¸¦ Á¦¾îÇÕ´Ï´Ù.
-¸ðµ¨Àº µ¥ÀÌÅÍº£ÀÌ½º¸¦ Á¶ÀÛÇÏ°í ºä´Â »ç¿ëÀÚ¿¡°Ô º¸¿©Áö´Â UI¸¦ ±¸¼ºÇÕ´Ï´Ù.
-
-
-Graduation-Work/www/public/Àº »ç¿ëÇÒ ¶óÀÌºê·¯¸®µé°ú »ç¿ëÀÚ°¡ ¼³Á¤ÇÑ ÆÄÀÏµé·Î ±¸¼ºµÇ¾ú½À´Ï´Ù.
+ê°„ë‹¨í•˜ê²Œ ì„¤ëª…í•˜ë©´ 
+ì»¨íŠ¸ë¡¤ëŸ¬ë¥¼ í†µí•´ ëª¨ë¸ê³¼ ë·°ë¥¼ ì œì–´í•©ë‹ˆë‹¤.
+ëª¨ë¸ì€ ë°ì´í„°ë² ì´ìŠ¤ë¥¼ ì¡°ìž‘í•˜ê³  ë·°ëŠ” ì‚¬ìš©ìžì—ê²Œ ë³´ì—¬ì§€ëŠ” UIë¥¼ êµ¬ì„±í•©ë‹ˆë‹¤.
 
 
-**Âü°í** 
+Graduation-Work/www/public/ì€ ì‚¬ìš©í•  ë¼ì´ë¸ŒëŸ¬ë¦¬ë“¤ê³¼ ì‚¬ìš©ìžê°€ ì„¤ì •í•œ íŒŒì¼ë“¤ë¡œ êµ¬ì„±ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-[MVC ÆÐÅÏ](https://ko.wikipedia.org/wiki/%EB%AA%A8%EB%8D%B8-%EB%B7%B0-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC)
 
-[ÄÚµåÀÌ±×³ªÀÌÅÍ »ç¿ëÀÚÆ÷·³](http://www.codeigniter-kr.org/)
+**ì°¸ê³ ** 
 
-[»ýÈ°ÄÚµù - CodeIgniter](https://opentutorials.org/course/697/3824)
+[MVC íŒ¨í„´](https://ko.wikipedia.org/wiki/%EB%AA%A8%EB%8D%B8-%EB%B7%B0-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC)
 
-=====================================
+[ì½”ë“œì´ê·¸ë‚˜ì´í„° ì‚¬ìš©ìží¬ëŸ¼](http://www.codeigniter-kr.org/)
+
+[ìƒí™œì½”ë”© - CodeIgniter](https://opentutorials.org/course/697/3824)
+
+------------------------------------------------------------------------------
 - KOREATECH
 - Computer Science Engineering
 - UOC LAB
