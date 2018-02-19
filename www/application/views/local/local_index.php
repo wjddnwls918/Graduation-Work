@@ -9,8 +9,8 @@
 		echo "<br />IP Address: ".$_SERVER['DOCUMENT_ROOT'];
 		exit;
 	}
-?>	    
-		
+?>
+
 		<!-- page header -->
 		<div class="row">
             <div class="col-lg-12">
@@ -21,27 +21,27 @@
                     <li><a href="/welcome">Home</a>
                     </li>
                     <li class="active"><a href="/local_controller">Local Sensor Control</li>
-					
+
                 </ol>
             </div>
         </div>
 		<!-- page header end ->
-		
+
         <!-- Content Row -->
         <div class="row">
             <!-- Sidebar Column -->
             <div class="col-md-2">
 				 <div class="list-group">
 				   <a href="/local_controller" class="list-group-item">로컬센서</a>
-			
+
                 </div>
 
 
 			</div>
-			
-		
+
+
 			<!-- Sidebar Column end -->
-	
+
 			<!-- Main Column -->
 			<div class="col-md-10">
 				<!-- board -->
@@ -54,11 +54,11 @@
 						각 센서 이름을 <b><span style="color:red">Click</span></b>하면 관련 정보를 볼 수 있습니다.
 						</p>
 					</div>
-			
+
 				</div>
 				</div>
 				<!-- board end -->
-				
+
 				<!-- Local Sensor List -->
 				<div class="col-md-12">
 
@@ -89,17 +89,17 @@
 				<!-- 새로운 조작 버튼 넣을 자리 -->
 				<div class="col-md-12">
 					<div class="btn-group" role="group">
-					<input type="text" class="inputtext"/>
-					<button type="button" class="testbutton" >test</button>
-					</div>	
+					<!--<input type="text" class="inputtext"/>
+					<button type="button" class="testbutton" >test</button>-->
+					</div>
 				<div class="row">
 				</div>
 				</div>
-				
+
 				<!-- Local Sensor List end -->
-			
+
 				<div style="height:10px;"></div>
-				
+
 				<!-- map -->
 				<div class ="container">
 				<div class="row">
@@ -107,7 +107,7 @@
 				</div>
 				</div>
 				<!-- map end -->
-			</div>	
+			</div>
 			<!-- Main Column end -->
 		</div>
 		<!-- Cotent Row end -->

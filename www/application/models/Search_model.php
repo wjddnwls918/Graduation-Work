@@ -1,18 +1,18 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Search_model extends CI_Model 
+class Search_model extends CI_Model
 {
 	public function find($data)
 	{
-		
+
 		echo $data['_type'];
 		echo $data['_text'];
-		if( $data['_type'] == 
+		//if( $data['_type'] == 
 		$this->db->from('ci_board');
-		
+
 		//return $result;
-	
+
 	}
 	public function insertdb($temp,$hum,$CO2)
 	{
@@ -24,27 +24,27 @@ class Search_model extends CI_Model
 			'humidity' => $hum,
 			'CO2' => $CO2
 		);
-		
-		$this->db->insert('localData',$data);		
-	
+
+		$this->db->insert('localData',$data);
+
 	}
 
 	public function deletedb($id)
 	{
 		$this -> db ->select('idx');
-		
+
 		$this->db->from('localData');
 		$this->db->where('localId',$id);
 		$this->db->order_by('idx','desc');
-		
+
 		$query = $this->db->get();
-		
+
 		$data = $query->row_array();
-		
+
 		$this->db->where('idx',$data['idx']);
-		$this->db->delete('localData');	
+		$this->db->delete('localData');
 	}
-	
+
 	public function insert_Simuldb($id,$temp,$hmd,$co2,$vib,$water)
 	{
 		$sensorLatitude = [ 36.766474 , 36.764978 , 36.763454 , 36.76213 , 36.761547 , 36.760252];
@@ -59,10 +59,10 @@ class Search_model extends CI_Model
 			'vibration' => $vib,
 			'waterlevel' => $water
 		);
-		
-		$this->db->insert('localData',$data);	
+
+		$this->db->insert('localData',$data);
 	}
-	
+
 	public function insert_SimulDronedb($id,$lat,$lng)
 	{
 		$temp = rand(18, 30);
@@ -70,7 +70,7 @@ class Search_model extends CI_Model
 		$co2 = rand(350, 400);
 		$al = rand(0, 15);
 		$speed = rand(0, 20);
-		
+
 		$data = array(
 			'drone_idx' => $id,
 			'idx_date' => date("Y-m-d"),
@@ -83,19 +83,19 @@ class Search_model extends CI_Model
 			'altitude' => $al,
 			'speed' => $speed
 		);
-		
-		$this->db->insert('practice_Drone_Data',$data);	
+
+		$this->db->insert('practice_Drone_Data',$data);
 	}
-	
+
 	public function getRssi($localId)
 	{
 		$this->db->from('rssi');
-		
+
 		$this->db->where('localId',$localId);
 		$this->db->order_by('idx','DESC');
-		
+
 		$data=$this->db->get();
-		
+
 		return $data->row_array();
 	}
 }
