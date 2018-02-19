@@ -121,6 +121,7 @@
 	}*/
 	var temp;
 	var temp2;
+	var modi;
 	<?
 	for($i=0; $i<count($item); $i++)
 	{
@@ -130,21 +131,24 @@
 		//console.log(modate.getHours());
 		temp = "<?=$item[$i]['idx_time'] ?>";
 		temp2 = temp.split(":");
+
+		modi = parseInt(temp2[0]);
+
 		//console.log(temp2[0]);
 		/*for(var i = 0; i<24; i++)
 		{
 			console.log(avgtem[i]);
 		}*/
-		avgtem[temp2[0]]+= parseInt("<?=$item[$i]['temperature']?>");
-		cnttem[temp2[0]]+= 1;
-		avghum[temp2[0]]+= parseInt("<?=$item[$i]['humidity']?>");
-		cnthum[temp2[0]]+= 1;
-		avgspeed[temp2[0]]+= parseInt("<?=$item[$i]['speed']?>");
-		cntspeed[temp2[0]]+= 1;
-		avgalt[temp2[0]]+= parseInt("<?=$item[$i]['altitude']?>");
-		cntalt[temp2[0]]+= 1;
-		avgco2[temp2[0]]+= parseInt("<?=$item[$i]['CO2']?>");
-		cntco2[temp2[0]]+= 1;
+		avgtem[modi]+= parseInt("<?=$item[$i]['temperature']?>");
+		cnttem[modi]+= 1;
+		avghum[modi]+= parseInt("<?=$item[$i]['humidity']?>");
+		cnthum[modi]+= 1;
+		avgspeed[modi]+= parseInt("<?=$item[$i]['speed']?>");
+		cntspeed[modi]+= 1;
+		avgalt[modi]+= parseInt("<?=$item[$i]['altitude']?>");
+		cntalt[modi]+= 1;
+		avgco2[modi]+= parseInt("<?=$item[$i]['CO2']?>");
+		cntco2[modi]+= 1;
 
 		//time.push("<?=$item[$i]['idx_time'] ?>");
 
