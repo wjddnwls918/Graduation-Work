@@ -10,6 +10,8 @@
 - MySQL
 - 자바스크립트
 
+- ***졸업작품_정우진.pdf파일 참조.***
+
 ----------------------------------
 - KOREATECH
 - Computer Science Engineering
